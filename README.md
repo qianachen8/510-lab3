@@ -15,7 +15,8 @@ streamlit run app.py
 ```
 
 ## Lessions Learned
--- Data storage and retrieval using Python.
+-- Create the a web app which can create the new task 
+-- The data will stored in the sqlite
 
 ## Questions
--- 
+-- -- Azure still have the problem to link the website 
